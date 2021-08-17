@@ -1,4 +1,4 @@
-👭 GROUP PROJECTS
+## 👭 GROUP PROJECTS
 
 In this group projects we include 
 
