@@ -1,4 +1,4 @@
-😎 INDIVIDUAL PROJECTS
+## 😎 INDIVIDUAL PROJECTS
 
  In this individual projects i include :
 
