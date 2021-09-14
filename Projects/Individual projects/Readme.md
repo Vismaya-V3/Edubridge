@@ -10,3 +10,4 @@
 
 💡 Latest Covid-19 analysis as EDA
 
+💡 Petrol price in lndia as R Analysis
