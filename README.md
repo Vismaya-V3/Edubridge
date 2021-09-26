@@ -17,6 +17,9 @@ Tableau Desktop
 ## 💡 Assignments:
 To make  aware of all the fundamentals command of Python. It also covers various visualization techniques with advanced machine learning techniques.
 
+## 💡 Final project:
+This final project is done by group work. In this we done all the programms like Python, R, Tableau dasboard, Excel dashboard, and SAS with the dataset of MARUTI STOKE EXCHANGE.
+
 ## 💡 Practice Works:
 The best way we learn anything is by practice and exercise questions. 
 
