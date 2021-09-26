@@ -1,4 +1,4 @@
-##👩🏼‍🤝‍👩🏻 To Analysse Maruti Stoke Exchange, we use different tools.
+👩🏼‍🤝‍👩🏻 To Analysse Maruti Stoke Exchange, we use different tools.
 
 1) Python
 2) Excel dasboard
